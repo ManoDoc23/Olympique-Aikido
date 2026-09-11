@@ -82,7 +82,7 @@ export default function App() {
           style={{ background: "linear-gradient(to top, rgba(10,15,30,1) 0%, rgba(10,15,30,0.3) 60%, transparent 100%)" }}
         />
         <div className="relative max-w-6xl mx-auto px-6 pb-20 w-full">
-          <SectionLabel> Section Arts Martiaux - AIKIDO WAGOKAN </SectionLabel>
+          <SectionLabel> Section Arts Martiaux - AIKIDO WAGOKAN NC</SectionLabel>
           <h1
             style={{
               ...heading,
